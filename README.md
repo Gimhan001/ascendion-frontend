@@ -39,7 +39,7 @@ ascendion-frontend/
 │   │   └── theme-toggle.test.tsx
 │   ├── (answer-01)      # Challenge 1: Calculator
 │   │   └──calculator.tsx
-│   ├── (answer-02)      # Challenge 3: Navbar
+│   ├── (answer-02)      # Challenge 2: Navbar
 │   │   ├── header.mock.ts
 │   │   ├── header.tsx
 │   │   └── mobile-header.tsx
