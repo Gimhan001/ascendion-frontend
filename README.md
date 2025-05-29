@@ -68,13 +68,6 @@ ascendion-frontend/
 ├── util/
 │   ├── calculator.ts
 │   └── two-sum.ts
-├── __tests__/
-│     ├── calculator.test.tsx
-│     ├── two-sum.test.tsx
-│     ├── header.test.tsx
-│     ├── mobile-header.test.tsx
-│     ├── input.test.tsx
-│     └── theme-toggle.test.tsx
 ├── jest.config.js
 ├── jest.setup.ts
 ├── next.config.js
