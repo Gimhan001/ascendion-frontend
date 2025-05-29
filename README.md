@@ -19,7 +19,7 @@ This project aims to answer the questions that ask from Ascendion. This is a Nex
 node >= 20
 ```
 
-### Directory tructure
+### Directory Structure
 
 ```
 ascendion-frontend/
